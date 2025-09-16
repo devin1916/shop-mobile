@@ -1,12 +1,12 @@
 import { Product, Category } from '../types';
 
 export const categories: Category[] = [
-  { id: 'electronics', name: 'Electronics', icon: 'Smartphone', count: 45 },
-  { id: 'fashion', name: 'Fashion', icon: 'Shirt', count: 120 },
-  { id: 'home', name: 'Home & Garden', icon: 'Home', count: 78 },
-  { id: 'sports', name: 'Sports', icon: 'Dumbbell', count: 63 },
-  { id: 'beauty', name: 'Beauty', icon: 'Sparkles', count: 89 },
-  { id: 'books', name: 'Books', icon: 'BookOpen', count: 156 },
+  { id: 'electronics', name: 'Electronics', icon: 'Smartphone', count: 3 },
+  { id: 'fashion', name: 'Fashion', icon: 'Shirt', count: 1 },
+  { id: 'home', name: 'Home & Garden', icon: 'Home', count: 1 },
+  { id: 'sports', name: 'Sports', icon: 'Dumbbell', count: 1 },
+  { id: 'beauty', name: 'Beauty', icon: 'Sparkles', count: 1 },
+  { id: 'books', name: 'Books', icon: 'BookOpen', count: 0 },
 ];
 
 export const products: Product[] = [
